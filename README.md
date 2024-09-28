@@ -259,7 +259,7 @@ print('\nName: Yuvadarshini S')
 
 ## Dataset Information
 
-<img src=image-1.png width=500 height=100>
+![image](https://github.com/user-attachments/assets/b70ead1f-dd5e-4092-9457-163028a7d834)
 
 ## OUTPUT
 ### Training Loss, Validation Loss Vs Iteration Plot
